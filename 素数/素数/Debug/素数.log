@@ -1,2 +1,3 @@
 ﻿  prime.c
-  素数.vcxproj -> C:\Users\CatalpaJun\Desktop\素数\Debug\素数.exe
+F:\GitRepository\leetcode\素数\素数\prime.c(31): warning C4715: “isPrime”: 不是所有的控件路径都返回值
+  素数.vcxproj -> F:\GitRepository\leetcode\素数\Debug\素数.exe

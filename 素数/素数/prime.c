@@ -8,7 +8,7 @@ int main(void)
 	{
 		if (isPrime(i))
 		{
-			printf("ËØÊıÎª%d\n",i);
+			printf("%d ",i);
 		}
 		i = i + 2;
 	}
@@ -28,6 +28,4 @@ int isPrime(int x)
 	{
 		return 1;
 	}
-	return 0;
-	
 }
